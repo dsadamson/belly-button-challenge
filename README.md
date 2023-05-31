@@ -62,7 +62,7 @@ Simply clone this Git repository to your local machine, then open the HTML file 
 Alternatively, visit the following web address: https://dsadamson.github.io/belly-button-challenge/. Inspect the webpage to view its HTML and JavaScript sources.
 
 # Sources
-The starter HTML code, JSON data and instructions for this assignment were provided by the edX Data Visualization and Analytics Boot Camp at The Ohio State University, which sourced the data about bacterial biodiversity in belly buttons from the following source:
+The starter HTML code, JSON data and instructions for this assignment were provided by the edX Data Visualization and Analytics Boot Camp at The Ohio State University, which obtained the data about bacterial biodiversity in belly buttons from the following source:
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
 
 # Author
